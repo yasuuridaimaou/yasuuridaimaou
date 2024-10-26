@@ -1,0 +1,12 @@
+C:\Users\yasuu\OneDrive\デスクトップ\git_all\git_Sougou\Sougou_App1\Sougou_App1\obj\Debug\Sougou_App1.vbproj.AssemblyReference.cache
+C:\Users\yasuu\OneDrive\デスクトップ\git_all\git_Sougou\Sougou_App1\Sougou_App1\obj\Debug\Sougou_App1.frmMain.resources
+C:\Users\yasuu\OneDrive\デスクトップ\git_all\git_Sougou\Sougou_App1\Sougou_App1\obj\Debug\Sougou_App1.Resources.resources
+C:\Users\yasuu\OneDrive\デスクトップ\git_all\git_Sougou\Sougou_App1\Sougou_App1\obj\Debug\Sougou_App1.vbproj.GenerateResource.cache
+C:\Users\yasuu\OneDrive\デスクトップ\git_all\git_Sougou\Sougou_App1\Sougou_App1\obj\Debug\Sougou_App1.vbproj.CoreCompileInputs.cache
+C:\Users\yasuu\OneDrive\デスクトップ\git_all\git_Sougou\Sougou_App1\Sougou_App1\bin\Debug\Sougou_App1.exe.config
+C:\Users\yasuu\OneDrive\デスクトップ\git_all\git_Sougou\Sougou_App1\Sougou_App1\bin\Debug\Sougou_App1.exe
+C:\Users\yasuu\OneDrive\デスクトップ\git_all\git_Sougou\Sougou_App1\Sougou_App1\bin\Debug\Sougou_App1.pdb
+C:\Users\yasuu\OneDrive\デスクトップ\git_all\git_Sougou\Sougou_App1\Sougou_App1\bin\Debug\Sougou_App1.xml
+C:\Users\yasuu\OneDrive\デスクトップ\git_all\git_Sougou\Sougou_App1\Sougou_App1\obj\Debug\Sougou_App1.exe
+C:\Users\yasuu\OneDrive\デスクトップ\git_all\git_Sougou\Sougou_App1\Sougou_App1\obj\Debug\Sougou_App1.xml
+C:\Users\yasuu\OneDrive\デスクトップ\git_all\git_Sougou\Sougou_App1\Sougou_App1\obj\Debug\Sougou_App1.pdb

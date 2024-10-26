@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|c:\\users\\yasuu\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_sougou\\sougou_app1\\sougou_app1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|solutionrelative:sougou_app1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 336,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\Form1.vb",
+              "RelativeDocumentMoniker": "Sougou_App1\\Form1.vb",
+              "ToolTip": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\Form1.vb [\u30C7\u30B6\u30A4\u30F3]*",
+              "RelativeToolTip": "Sougou_App1\\Form1.vb [\u30C7\u30B6\u30A4\u30F3]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-26T01:07:19.688Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
