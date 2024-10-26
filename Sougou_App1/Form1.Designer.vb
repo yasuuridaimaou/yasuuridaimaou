@@ -33,7 +33,13 @@ Partial Class frmMain
         Me.btnEDINET = New System.Windows.Forms.Button()
         Me.btnTableMaker = New System.Windows.Forms.Button()
         Me.btnDbMaker = New System.Windows.Forms.Button()
+        Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
+        Me.ファイルToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ToolStripMenuItem2 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.終了ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Panel1.SuspendLayout()
+        Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
         'Panel1
@@ -168,17 +174,58 @@ Partial Class frmMain
         Me.btnDbMaker.Text = "登録/Db作成"
         Me.btnDbMaker.UseVisualStyleBackColor = True
         '
+        'MenuStrip1
+        '
+        Me.MenuStrip1.ImageScalingSize = New System.Drawing.Size(20, 20)
+        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ファイルToolStripMenuItem})
+        Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
+        Me.MenuStrip1.Name = "MenuStrip1"
+        Me.MenuStrip1.Size = New System.Drawing.Size(1252, 44)
+        Me.MenuStrip1.TabIndex = 3
+        Me.MenuStrip1.Text = "MenuStrip1"
+        '
+        'ファイルToolStripMenuItem
+        '
+        Me.ファイルToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ToolStripMenuItem1, Me.ToolStripMenuItem2})
+        Me.ファイルToolStripMenuItem.Name = "ファイルToolStripMenuItem"
+        Me.ファイルToolStripMenuItem.Size = New System.Drawing.Size(102, 40)
+        Me.ファイルToolStripMenuItem.Text = "ファイル"
+        '
+        'ToolStripMenuItem1
+        '
+        Me.ToolStripMenuItem1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.終了ToolStripMenuItem})
+        Me.ToolStripMenuItem1.Name = "ToolStripMenuItem1"
+        Me.ToolStripMenuItem1.Size = New System.Drawing.Size(337, 40)
+        Me.ToolStripMenuItem1.Text = "ToolStripMenuItem1"
+        '
+        'ToolStripMenuItem2
+        '
+        Me.ToolStripMenuItem2.Name = "ToolStripMenuItem2"
+        Me.ToolStripMenuItem2.Size = New System.Drawing.Size(337, 40)
+        Me.ToolStripMenuItem2.Text = "ToolStripMenuItem2"
+        '
+        '終了ToolStripMenuItem
+        '
+        Me.終了ToolStripMenuItem.Name = "終了ToolStripMenuItem"
+        Me.終了ToolStripMenuItem.Size = New System.Drawing.Size(224, 40)
+        Me.終了ToolStripMenuItem.Text = "終了"
+        '
         'frmMain
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1252, 820)
         Me.Controls.Add(Me.Panel1)
+        Me.Controls.Add(Me.MenuStrip1)
         Me.IsMdiContainer = True
+        Me.MainMenuStrip = Me.MenuStrip1
         Me.Name = "frmMain"
         Me.Text = "株式総合解析"
         Me.Panel1.ResumeLayout(False)
+        Me.MenuStrip1.ResumeLayout(False)
+        Me.MenuStrip1.PerformLayout()
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
 
@@ -193,4 +240,9 @@ Partial Class frmMain
     Friend WithEvents btnEDINET As Button
     Friend WithEvents btnTableMaker As Button
     Friend WithEvents btnDbMaker As Button
+    Friend WithEvents MenuStrip1 As MenuStrip
+    Friend WithEvents ファイルToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents ToolStripMenuItem1 As ToolStripMenuItem
+    Friend WithEvents 終了ToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents ToolStripMenuItem2 As ToolStripMenuItem
 End Class
