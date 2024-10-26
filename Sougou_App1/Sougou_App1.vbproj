@@ -105,6 +105,9 @@
     <Compile Include="SQLServerChecker.vb" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="frmDBmaker.resx">
+      <DependentUpon>frmDBmaker.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.vb</DependentUpon>
     </EmbeddedResource>
