@@ -10,3 +10,4 @@ C:\Users\yasuu\OneDrive\デスクトップ\git_all\git_Sougou\Sougou_App1\Sougou
 C:\Users\yasuu\OneDrive\デスクトップ\git_all\git_Sougou\Sougou_App1\Sougou_App1\obj\Debug\Sougou_App1.exe
 C:\Users\yasuu\OneDrive\デスクトップ\git_all\git_Sougou\Sougou_App1\Sougou_App1\obj\Debug\Sougou_App1.xml
 C:\Users\yasuu\OneDrive\デスクトップ\git_all\git_Sougou\Sougou_App1\Sougou_App1\obj\Debug\Sougou_App1.pdb
+C:\Users\yasuu\OneDrive\デスクトップ\git_all\git_Sougou\Sougou_App1\Sougou_App1\obj\Debug\Sougou_App1.frmDBmaker.resources
