@@ -103,9 +103,10 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="RegistryConnection.vb" />
-    <Compile Include="RegistryHandler.vb" />
+    <Compile Include="SettingsWriter.vb" />
     <Compile Include="SQLServerChecker.vb" />
+    <Compile Include="XmlConnection.vb" />
+    <Compile Include="XmlSettingsReader.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="frmDBmaker.resx">
