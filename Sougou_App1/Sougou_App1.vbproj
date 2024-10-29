@@ -110,6 +110,7 @@
     <Compile Include="SettingsWriter.vb" />
     <Compile Include="SQLServerChecker.vb" />
     <Compile Include="TachibanaHttpClient.vb" />
+    <Compile Include="TachibanaRequestProcessor.vb" />
     <Compile Include="TachibanaUrlBuilder.vb" />
     <Compile Include="XmlConnection.vb" />
     <Compile Include="XmlSettingsReader.vb" />
