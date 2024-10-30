@@ -78,6 +78,8 @@
   <ItemGroup>
     <Compile Include="Constants.vb" />
     <Compile Include="DatabaseMaker.vb" />
+    <Compile Include="DatabaseManager.vb" />
+    <Compile Include="DatabaseTableLister.vb" />
     <Compile Include="frmMain.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -91,6 +93,13 @@
     <Compile Include="frmDBmaker.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmTableMaker.Designer.vb">
+      <DependentUpon>frmTableMaker.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTableMaker.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JQuaryFinDataTableCreator.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -121,6 +130,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTableMaker.resx">
+      <DependentUpon>frmTableMaker.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
