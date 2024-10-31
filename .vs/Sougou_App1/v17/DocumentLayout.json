@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|c:\\users\\yasuu\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_sougou\\sougou_app1\\sougou_app1\\databasemanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|solutionrelative:sougou_app1\\databasemanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|c:\\users\\yasuu\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_sougou\\sougou_app1\\sougou_app1\\jquaryfindatatablecreator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|solutionrelative:sougou_app1\\jquaryfindatatablecreator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|c:\\users\\yasuu\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_sougou\\sougou_app1\\sougou_app1\\frmtablemaker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|solutionrelative:sougou_app1\\frmtablemaker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|c:\\users\\yasuu\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_sougou\\sougou_app1\\sougou_app1\\frmtablemaker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|solutionrelative:sougou_app1\\frmtablemaker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\sougou_app1\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|solutionrelative:sougou_app1\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|c:\\users\\yasuu\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_sougou\\sougou_app1\\sougou_app1\\databasetablelister.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|solutionrelative:sougou_app1\\databasetablelister.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|c:\\users\\yasuu\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_sougou\\sougou_app1\\sougou_app1\\frmedinet.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|solutionrelative:sougou_app1\\frmedinet.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|c:\\users\\yasuu\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_sougou\\sougou_app1\\sougou_app1\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|solutionrelative:sougou_app1\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|c:\\users\\yasuu\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_sougou\\sougou_app1\\sougou_app1\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|solutionrelative:sougou_app1\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|c:\\users\\yasuu\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_sougou\\sougou_app1\\sougou_app1\\frmedinet.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|solutionrelative:sougou_app1\\frmedinet.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|c:\\users\\yasuu\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_sougou\\sougou_app1\\sougou_app1\\calenderrangeselector.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{06F6667E-5E4D-47DC-8395-2BF18E34570C}|Sougou_App1\\Sougou_App1.vbproj|solutionrelative:sougou_app1\\calenderrangeselector.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,95 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 336,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmTableMaker.vb",
-              "DocumentMoniker": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\frmTableMaker.vb",
-              "RelativeDocumentMoniker": "Sougou_App1\\frmTableMaker.vb",
-              "ToolTip": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\frmTableMaker.vb",
-              "RelativeToolTip": "Sougou_App1\\frmTableMaker.vb",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvygAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-30T06:09:17.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmTableMaker.vb [\u30C7\u30B6\u30A4\u30F3]",
-              "DocumentMoniker": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\frmTableMaker.vb",
-              "RelativeDocumentMoniker": "Sougou_App1\\frmTableMaker.vb",
-              "ToolTip": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\frmTableMaker.vb [\u30C7\u30B6\u30A4\u30F3]",
-              "RelativeToolTip": "Sougou_App1\\frmTableMaker.vb [\u30C7\u30B6\u30A4\u30F3]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-30T06:09:12.311Z",
-              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "JQuaryFinDataTableCreator.vb",
-              "DocumentMoniker": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\JQuaryFinDataTableCreator.vb",
-              "RelativeDocumentMoniker": "Sougou_App1\\JQuaryFinDataTableCreator.vb",
-              "ToolTip": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\JQuaryFinDataTableCreator.vb",
-              "RelativeToolTip": "Sougou_App1\\JQuaryFinDataTableCreator.vb",
-              "ViewState": "AgIAAE8AAAAAAAAAAAA3wA0AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-30T04:59:26.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DatabaseManager.vb",
-              "DocumentMoniker": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\DatabaseManager.vb",
-              "RelativeDocumentMoniker": "Sougou_App1\\DatabaseManager.vb",
-              "ToolTip": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\DatabaseManager.vb*",
-              "RelativeToolTip": "Sougou_App1\\DatabaseManager.vb*",
-              "ViewState": "AgIAAL4AAAAAAAAAAADwv9IAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-29T18:33:06.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "frmMain.vb",
               "DocumentMoniker": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\frmMain.vb",
               "RelativeDocumentMoniker": "Sougou_App1\\frmMain.vb",
               "ToolTip": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\frmMain.vb",
               "RelativeToolTip": "Sougou_App1\\frmMain.vb",
-              "ViewState": "AgIAADMAAAAAAAAAAAAnwEkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-29T06:57:26.242Z",
+              "WhenOpened": "2024-10-31T19:39:28.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DatabaseTableLister.vb",
-              "DocumentMoniker": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\DatabaseTableLister.vb",
-              "RelativeDocumentMoniker": "Sougou_App1\\DatabaseTableLister.vb",
-              "ToolTip": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\DatabaseTableLister.vb",
-              "RelativeToolTip": "Sougou_App1\\DatabaseTableLister.vb",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-29T05:37:48.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "frmMain.vb [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\frmMain.vb",
               "RelativeDocumentMoniker": "Sougou_App1\\frmMain.vb",
               "ToolTip": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\frmMain.vb [\u30C7\u30B6\u30A4\u30F3]",
               "RelativeToolTip": "Sougou_App1\\frmMain.vb [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-26T01:07:19.688Z",
+              "WhenOpened": "2024-10-31T19:39:11.796Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmEDINET.vb",
+              "DocumentMoniker": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\frmEDINET.vb",
+              "RelativeDocumentMoniker": "Sougou_App1\\frmEDINET.vb",
+              "ToolTip": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\frmEDINET.vb*",
+              "RelativeToolTip": "Sougou_App1\\frmEDINET.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-31T19:29:47.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalenderRangeSelector.vb",
+              "DocumentMoniker": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\CalenderRangeSelector.vb",
+              "RelativeDocumentMoniker": "Sougou_App1\\CalenderRangeSelector.vb",
+              "ToolTip": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\CalenderRangeSelector.vb",
+              "RelativeToolTip": "Sougou_App1\\CalenderRangeSelector.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-31T19:26:59.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmEDINET.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\frmEDINET.vb",
+              "RelativeDocumentMoniker": "Sougou_App1\\frmEDINET.vb",
+              "ToolTip": "C:\\Users\\yasuu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\git_all\\git_Sougou\\Sougou_App1\\Sougou_App1\\frmEDINET.vb [\u30C7\u30B6\u30A4\u30F3]*",
+              "RelativeToolTip": "Sougou_App1\\frmEDINET.vb [\u30C7\u30B6\u30A4\u30F3]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-31T18:26:45.73Z",
               "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
             }
           ]
