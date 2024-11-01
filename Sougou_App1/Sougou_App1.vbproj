@@ -81,6 +81,7 @@
     <Compile Include="DatabaseMaker.vb" />
     <Compile Include="DatabaseManager.vb" />
     <Compile Include="DatabaseTableLister.vb" />
+    <Compile Include="EdinetApiFetcher.vb" />
     <Compile Include="frmEDINET.Designer.vb">
       <DependentUpon>frmEDINET.vb</DependentUpon>
     </Compile>
@@ -106,6 +107,7 @@
     <Compile Include="frmTableMaker.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="InsertMetaDataFromJson.vb" />
     <Compile Include="JQuaryFinDataTableCreator.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
