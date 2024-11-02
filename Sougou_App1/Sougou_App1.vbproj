@@ -55,6 +55,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
@@ -81,7 +82,10 @@
     <Compile Include="DatabaseMaker.vb" />
     <Compile Include="DatabaseManager.vb" />
     <Compile Include="DatabaseTableLister.vb" />
+    <Compile Include="DatabaseTool.vb" />
     <Compile Include="EdinetApiFetcher.vb" />
+    <Compile Include="EdinetZipDownloader.vb" />
+    <Compile Include="FolderSelector.vb" />
     <Compile Include="frmEDINET.Designer.vb">
       <DependentUpon>frmEDINET.vb</DependentUpon>
     </Compile>
