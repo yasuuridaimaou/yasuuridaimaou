@@ -84,7 +84,14 @@
     <Compile Include="DatabaseManager.vb" />
     <Compile Include="DatabaseTableLister.vb" />
     <Compile Include="DatabaseTool.vb" />
+    <Compile Include="EDINET2.Designer.vb">
+      <DependentUpon>EDINET2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDINET2.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="EdinetApiFetcher.vb" />
+    <Compile Include="EdinetYuhoAnalyzer.vb" />
     <Compile Include="EdinetZipDownloader.vb" />
     <Compile Include="FolderSelector.vb" />
     <Compile Include="frmEDINET.Designer.vb">
@@ -135,10 +142,14 @@
     <Compile Include="TachibanaHttpClient.vb" />
     <Compile Include="TachibanaRequestProcessor.vb" />
     <Compile Include="TachibanaUrlBuilder.vb" />
+    <Compile Include="XbrlFileFinder.vb" />
     <Compile Include="XmlConnection.vb" />
     <Compile Include="XmlSettingsReader.vb" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="EDINET2.resx">
+      <DependentUpon>EDINET2.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmDBmaker.resx">
       <DependentUpon>frmDBmaker.vb</DependentUpon>
     </EmbeddedResource>
