@@ -92,6 +92,7 @@
     </Compile>
     <Compile Include="EdinetApiFetcher.vb" />
     <Compile Include="EdinetYuhoAnalyzer.vb" />
+    <Compile Include="EdinetYuhoDataInsert.vb" />
     <Compile Include="EdinetZipDownloader.vb" />
     <Compile Include="FolderSelector.vb" />
     <Compile Include="frmEDINET.Designer.vb">
