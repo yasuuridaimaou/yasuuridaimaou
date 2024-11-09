@@ -101,6 +101,12 @@
     <Compile Include="frmEDINET.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmEDINET3.Designer.vb">
+      <DependentUpon>frmEDINET3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEDINET3.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmMain.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -156,6 +162,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmEDINET.resx">
       <DependentUpon>frmEDINET.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEDINET3.resx">
+      <DependentUpon>frmEDINET3.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.vb</DependentUpon>
