@@ -126,7 +126,6 @@
     <Compile Include="frmTableMaker.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="InsertMetaDataFromJson.vb" />
     <Compile Include="JQuaryFinDataTableCreator.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
