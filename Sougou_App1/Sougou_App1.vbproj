@@ -107,6 +107,12 @@
     <Compile Include="frmEDINET3.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmJQuants.Designer.vb">
+      <DependentUpon>frmJQuants.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmJQuants.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmMain.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -126,6 +132,7 @@
     <Compile Include="frmTableMaker.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="JQuantsClient.vb" />
     <Compile Include="JQuaryFinDataTableCreator.vb" />
     <Compile Include="MetaDataInserter.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -165,6 +172,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmEDINET3.resx">
       <DependentUpon>frmEDINET3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJQuants.resx">
+      <DependentUpon>frmJQuants.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.vb</DependentUpon>
