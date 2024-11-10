@@ -93,7 +93,7 @@
     <Compile Include="EdinetApiFetcher.vb" />
     <Compile Include="EdinetYuhoAnalyzer.vb" />
     <Compile Include="EdinetYuhoDataInsert.vb" />
-    <Compile Include="EdinetZipDownloader.vb" />
+    <Compile Include="EdinetDownloader.vb" />
     <Compile Include="FolderSelector.vb" />
     <Compile Include="frmEDINET.Designer.vb">
       <DependentUpon>frmEDINET.vb</DependentUpon>
@@ -127,6 +127,7 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="JQuaryFinDataTableCreator.vb" />
+    <Compile Include="MetaDataInserter.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
