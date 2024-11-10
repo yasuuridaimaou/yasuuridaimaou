@@ -113,6 +113,12 @@
     <Compile Include="frmJQuants.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmJQuants2.Designer.vb">
+      <DependentUpon>frmJQuants2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmJQuants2.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmMain.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -133,6 +139,7 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="JQuantsClient.vb" />
+    <Compile Include="JQuantsDatabaseHandler.vb" />
     <Compile Include="JQuaryFinDataTableCreator.vb" />
     <Compile Include="MetaDataInserter.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
