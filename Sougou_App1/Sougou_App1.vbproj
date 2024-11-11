@@ -140,6 +140,7 @@
     </Compile>
     <Compile Include="JQuantsClient.vb" />
     <Compile Include="JQuantsDatabaseHandler.vb" />
+    <Compile Include="JQuantsFinancialDataInserter.vb" />
     <Compile Include="JQuaryFinDataTableCreator.vb" />
     <Compile Include="MetaDataInserter.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -182,6 +183,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmJQuants.resx">
       <DependentUpon>frmJQuants.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJQuants2.resx">
+      <DependentUpon>frmJQuants2.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.vb</DependentUpon>
