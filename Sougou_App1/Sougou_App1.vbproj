@@ -141,6 +141,7 @@
     <Compile Include="JQuantsClient.vb" />
     <Compile Include="JQuantsDatabaseHandler.vb" />
     <Compile Include="JQuantsFinancialDataInserter.vb" />
+    <Compile Include="JQuantsFinancialDataInserter20.vb" />
     <Compile Include="JQuaryFinDataTableCreator.vb" />
     <Compile Include="MetaDataInserter.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
