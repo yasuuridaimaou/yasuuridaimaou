@@ -79,6 +79,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CalenderRangeSelector.vb" />
+    <Compile Include="ComboListedInfoLoader.vb" />
     <Compile Include="Constants.vb" />
     <Compile Include="DatabaseMaker.vb" />
     <Compile Include="DatabaseManager.vb" />
@@ -117,6 +118,12 @@
       <DependentUpon>frmJQuants2.vb</DependentUpon>
     </Compile>
     <Compile Include="frmJQuants2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJQuants3.Designer.vb">
+      <DependentUpon>frmJQuants3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmJQuants3.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmMain.vb">
@@ -187,6 +194,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmJQuants2.resx">
       <DependentUpon>frmJQuants2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJQuants3.resx">
+      <DependentUpon>frmJQuants3.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.vb</DependentUpon>
